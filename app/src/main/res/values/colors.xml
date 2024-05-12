@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Red Theme -->
+    <color name="redPrimary">#FF1744</color>
+    <color name="redPrimaryDark">#D50000</color>
+    <color name="redAccent">#FF4081</color>
+
+    <!-- Blue Theme -->
+    <color name="bluePrimary">#2196F3</color>
+    <color name="bluePrimaryDark">#1976D2</color>
+    <color name="blueAccent">#03A9F4</color>
+
+    <!-- Default Theme -->
+    <color name="defaultPrimary">#FFFFFF</color>
+    <color name="defaultPrimaryDark">#CCCCCC</color>
+    <color name="defaultAccent">#000000</color>
+
+    <!-- Dark Theme -->
+    <color name="darkPrimary">#121212</color>
+    <color name="darkPrimaryDark">#000000</color>
+    <color name="darkAccent">#FF9800</color>
+
+    <color name="green">#24A19C</color>
+
+</resources>
